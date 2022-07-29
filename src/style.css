@@ -27,6 +27,9 @@ body {
     margin-top:20px;
     padding-top:10px;
     margin:auto; 
+    background-image:url(./img/robbie.png);
+    background-position: top;
+    background-repeat: no-repeat;
     
 }
 
@@ -146,6 +149,7 @@ body {
     width:25px;
     height:25px;
     align-items: center;
-    background-color:red;
+    font-size:30px;
+    color:#918E9B;
     margin:0px 24px;
 }

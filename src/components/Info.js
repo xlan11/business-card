@@ -1,4 +1,8 @@
 import React from "react"
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
+import {faEnvelope} from "@fortawesome/free-solid-svg-icons"
+import {faLinkedin} from "@fortawesome/free-brands-svg-icons"
+
 export default function Info() {
     return(
         <div className="info">
@@ -8,8 +12,8 @@ export default function Info() {
             <h4 className="info--jobtitle">Frontend Developer</h4>
             <a href="website.com" className="info--email">website.com</a>
             <div className="btn--container">
-                <button className="btn btn--email">Email</button>
-                <button className="btn btn--linkedin">LinkedIn</button>
+                <button className="btn btn--email"><FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon> Email</button>
+                <button className="btn btn--linkedin"><FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon> LinkedIn</button>
             </div>
         </div>
     )
