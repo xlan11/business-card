@@ -1,14 +1,14 @@
 {
-  "main.css": "/business-card/static/css/main.5a05a20f.chunk.css",
-  "main.js": "/business-card/static/js/main.fd9158b6.chunk.js",
-  "main.js.map": "/business-card/static/js/main.fd9158b6.chunk.js.map",
+  "main.css": "/business-card/static/css/main.0fdcf352.chunk.css",
+  "main.js": "/business-card/static/js/main.dbfafbbd.chunk.js",
+  "main.js.map": "/business-card/static/js/main.dbfafbbd.chunk.js.map",
   "static/js/1.51d848af.chunk.js": "/business-card/static/js/1.51d848af.chunk.js",
   "static/js/1.51d848af.chunk.js.map": "/business-card/static/js/1.51d848af.chunk.js.map",
   "runtime~main.js": "/business-card/static/js/runtime~main.f8523fcd.js",
   "runtime~main.js.map": "/business-card/static/js/runtime~main.f8523fcd.js.map",
   "static/media/style.css": "/business-card/static/media/robbie.d049a453.png",
-  "static/css/main.5a05a20f.chunk.css.map": "/business-card/static/css/main.5a05a20f.chunk.css.map",
+  "static/css/main.0fdcf352.chunk.css.map": "/business-card/static/css/main.0fdcf352.chunk.css.map",
   "index.html": "/business-card/index.html",
-  "precache-manifest.5af6f6c42156554316a949e5e6dd7689.js": "/business-card/precache-manifest.5af6f6c42156554316a949e5e6dd7689.js",
+  "precache-manifest.e40c5c2a8bfbcd32c6317177dfda4481.js": "/business-card/precache-manifest.e40c5c2a8bfbcd32c6317177dfda4481.js",
   "service-worker.js": "/business-card/service-worker.js"
 }
